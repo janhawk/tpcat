@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Merienda&display=swap");
+
+.navbar {
+  background-color: #061339;
+  font-size: 20px;
+  color: #fff;
+}
+nav {
+  color: white;
+}
+.img {
+  background-image: url(img/background.jpg);
+  padding: 40px;
+  color: #fff;
+}
+label {
+  font-size: 1rem;
+  padding-right: 10px;
+}
+
+select {
+  font-size: 0.9rem;
+  padding: 2px 5px;
+}
+.carousel-indicators li {
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  /* background-color: #999; */
+  /* transition: all 0.25s ease; */
+}
+.carousel-indicators .active,
+.hover {
+  margin: 0 2px;
+  width: 30px;
+  height: 30px;
+  /* background-color: #fff; */
+}
+.secondbloc {
+  background-color: #dddddd;
+  padding-top: 20px;
+  margin-top: 50px;
+  padding-bottom: 30px;
+  color: black;
+}
+footer {
+  height: 30px;
+  width: 100%;
+  background-color: #061339;
+}
+a,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Merienda", cursive;
+}
+h1 {
+  color: white;
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
+h3 {
+  color: #2f4073;
+}
+.chat {
+  /* background-image: url(img/tete-chat.png); */
+}
